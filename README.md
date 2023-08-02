@@ -12,8 +12,7 @@
 |팀원|윤희석| 
 
 ## ERD구성
-
-[![NPE단속반 erd구성](./src/main/resources/static/img/Spring_Erd.png)](https://dbdiagram.io/d/647f4f07722eb774947ee12c)
+![sunny_ERD표](https://github.com/Jmsuhhh/sunnyProject/assets/123549829/dc3a7733-ff1b-4994-a870-9d83d1d5ae04)
 
 ## 프로젝트 주제
 
